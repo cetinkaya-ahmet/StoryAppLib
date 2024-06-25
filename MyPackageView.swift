@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-public struct MyPackageView: View {
+public struct StoryAppLibView: View {
     public init() {}
     public var body: some View {
         Text("Hello world in MyPackage!")
